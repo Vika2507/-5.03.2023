@@ -1,0 +1,15 @@
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.csproj.AssemblyReference.cache
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.AssemblyInfoInputs.cache
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.AssemblyInfo.cs
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.csproj.CoreCompileInputs.cache
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\bin\Debug\net7.0\3 QUESTION.exe
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\bin\Debug\net7.0\3 QUESTION.deps.json
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\bin\Debug\net7.0\3 QUESTION.runtimeconfig.json
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\bin\Debug\net7.0\3 QUESTION.dll
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\bin\Debug\net7.0\3 QUESTION.pdb
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.dll
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\refint\3 QUESTION.dll
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.pdb
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\3 QUESTION.genruntimeconfig.cache
+D:\USER\Рабочий стол\курс разработчик\5.03.2023 ДЗ\3 QUESTION\obj\Debug\net7.0\ref\3 QUESTION.dll
